@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: #222;
+}
+
+/* Do not touch the div CSS block! */
+div {
+  width: 100px;
+  height: 100px;
+}
+
+/* Add your styles for each box BELOW this line */
+
+#box01 {
+  background-color: rgba(28,104,167,1);
+}
+
+#box02 {
+  background-color: rgba(28,104,167,0.8);
+  
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+#box03 {
+  background-color: rgba(28,104,167,0.6);
+  
+  margin: 20px;
+}
+
+#box04 {
+  background-color: rgba(28,104,167,0.4);
+  
+  margin: 20px;
+  
+  border: 2px dotted rgba(28,104, 167,1);
+    
+  padding: 20px;
+}
+    

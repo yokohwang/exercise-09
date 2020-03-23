@@ -1,0 +1,13 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+/* Do not touch the div CSS block! */
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+
+/* Add your styles for each box below this line */
